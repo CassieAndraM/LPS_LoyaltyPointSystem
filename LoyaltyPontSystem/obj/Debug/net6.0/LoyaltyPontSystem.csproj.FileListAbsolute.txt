@@ -1,0 +1,15 @@
+C:\Users\cassandra\source\repos\LoyaltyPontSystem\bin\Debug\net6.0\LoyaltyPontSystem.exe
+C:\Users\cassandra\source\repos\LoyaltyPontSystem\bin\Debug\net6.0\LoyaltyPontSystem.deps.json
+C:\Users\cassandra\source\repos\LoyaltyPontSystem\bin\Debug\net6.0\LoyaltyPontSystem.runtimeconfig.json
+C:\Users\cassandra\source\repos\LoyaltyPontSystem\bin\Debug\net6.0\LoyaltyPontSystem.dll
+C:\Users\cassandra\source\repos\LoyaltyPontSystem\bin\Debug\net6.0\LoyaltyPontSystem.pdb
+C:\Users\cassandra\source\repos\LoyaltyPontSystem\obj\Debug\net6.0\LoyaltyPontSystem.csproj.AssemblyReference.cache
+C:\Users\cassandra\source\repos\LoyaltyPontSystem\obj\Debug\net6.0\LoyaltyPontSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cassandra\source\repos\LoyaltyPontSystem\obj\Debug\net6.0\LoyaltyPontSystem.AssemblyInfoInputs.cache
+C:\Users\cassandra\source\repos\LoyaltyPontSystem\obj\Debug\net6.0\LoyaltyPontSystem.AssemblyInfo.cs
+C:\Users\cassandra\source\repos\LoyaltyPontSystem\obj\Debug\net6.0\LoyaltyPontSystem.csproj.CoreCompileInputs.cache
+C:\Users\cassandra\source\repos\LoyaltyPontSystem\obj\Debug\net6.0\LoyaltyPontSystem.dll
+C:\Users\cassandra\source\repos\LoyaltyPontSystem\obj\Debug\net6.0\refint\LoyaltyPontSystem.dll
+C:\Users\cassandra\source\repos\LoyaltyPontSystem\obj\Debug\net6.0\LoyaltyPontSystem.pdb
+C:\Users\cassandra\source\repos\LoyaltyPontSystem\obj\Debug\net6.0\LoyaltyPontSystem.genruntimeconfig.cache
+C:\Users\cassandra\source\repos\LoyaltyPontSystem\obj\Debug\net6.0\ref\LoyaltyPontSystem.dll
